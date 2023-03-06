@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: #553ebb;
+  size: 1.5rem;
+}
+
+h1 {
+  margin: 50px;
+}
